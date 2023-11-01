@@ -4,6 +4,7 @@
 [![Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rla._wlsgus/)
 [![Badge](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100043726840721&locale=ko_KR)
 [![Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Hi-My-name-is-Jinhyeon-31722725c5264c89a6e9ce86f482e610?pvs=4)
+[![Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/453750595703275520)
 <br>
 
 ---
@@ -25,6 +26,7 @@
 ![Badge](https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![Badge](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Badge](https://img.shields.io/badge/AdroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Badge](https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 ![Jinhyeon Kim's GitHub state](https://github-readme-stats.vercel.app/api?username=jinhyeon-dev&show_icons=true&theme=transparent)
