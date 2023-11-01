@@ -1,6 +1,6 @@
 <div align = "center">
 
-# 김진현 | Kimjinhyeon
+# 🔥 Hello, I'm Jinhyeon 🔥
 
 <img src="https://github.com/jinhyeon-dev/jinhyeon-dev/assets/133763659/3dcdf510-00bf-4620-8402-b6080795ee9b" width="50%">
 
@@ -15,9 +15,12 @@
 [![Badge](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/453750595703275520)
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/kimjinhyeon1018/)
+
 ---
 ## ✨Stack✨
 ![Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 <br>
 
 ![Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
