@@ -32,11 +32,13 @@
 ![Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 <br>
+<br>
 
 ---
 ## ✨Learning Now✨
 ![Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+<br>
 <br>
 
 ---
@@ -49,6 +51,8 @@
 ![Badge](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Badge](https://img.shields.io/badge/AdroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Badge](https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=intellijidea&logoColor=white)
+<br>
+<br>
 
 ---
 ![Jinhyeon Kim's GitHub state](https://github-readme-stats.vercel.app/api?username=jinhyeon-dev&show_icons=true&theme=transparent)
