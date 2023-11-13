@@ -33,8 +33,13 @@
 ![Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 <br>
 
+---
+## ✨Learning Now✨
 ![Badge](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+<br>
 
+---
 ## ✨Tools✨
 ![Badge](https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 ![Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
