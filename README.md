@@ -37,6 +37,7 @@
 
 ## ✨Tools✨
 ![Badge](https://img.shields.io/badge/XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Badge](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 <br>
 
