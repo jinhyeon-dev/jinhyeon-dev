@@ -16,7 +16,7 @@
 [![Badge](https://img.shields.io/badge/StackOverFlow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22165270/)
 <br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinhyeon-dev)](https://solved.ac/jinhyeon-dev/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjinhyeon1018)](https://solved.ac/profile/kimjinhyeon1018/)
 
 ---
 ## ✨Stack✨
