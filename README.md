@@ -46,6 +46,7 @@
 
 
 ![Badge](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 <br>
 <br>
 
