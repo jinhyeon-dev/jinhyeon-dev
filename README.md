@@ -21,6 +21,10 @@
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="5%" />
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="5%" />
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="5%" />
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="5%" />
+<img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="5%" />
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="5%" />
+
 
 ---
 
