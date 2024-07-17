@@ -28,7 +28,17 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
 </div>
 
-<img width="10%" src="https://github.com/user-attachments/assets/afa9ebb8-897e-405b-8a45-b2cb1893244f" />
-<img width="10%" src="https://github.com/user-attachments/assets/3bd8b789-fedd-4e5e-bf76-5a75e0ce6590" />
+![image](https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b)
+
+
+
+
+
+
+
+
+
+
+
 
 
