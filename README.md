@@ -22,13 +22,14 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="5%" />
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="5%" />
 
-
 ---
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
 </div>
 
-![image](https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b)
+---
+
+<img width="50%" src="https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b" />
 
 
 
