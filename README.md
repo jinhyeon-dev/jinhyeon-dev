@@ -1,3 +1,5 @@
+<img width="50%" src="https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b" />
+
 <div align="center">
 <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=jinhyeon-dev&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
 
@@ -34,10 +36,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeon-dev&layout=compact&theme=transparent)
 
 </div>
-
----
-
-<img width="50%" src="https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b" />
 
 
 
