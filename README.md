@@ -1,6 +1,9 @@
-<img width="50%" src="https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b" />
+<div align="center">
+  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+</div>
 
 <div align="center">
+
 <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=jinhyeon-dev&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
 
 #  Hello! I'm Jinhyeon Kim 
@@ -27,6 +30,9 @@
 <img src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg" alt="apple" width="5%" />
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="5%" />
 
+<br>
+<img width="50%" src="https://github.com/user-attachments/assets/e57cb19f-cdd3-49b8-b055-c1bac7be3f6b" />
+
 
 ---
 
@@ -37,10 +43,7 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
 
-<p>
-  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
-  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
-</p>
+<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
 
 </div>
 
