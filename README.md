@@ -37,8 +37,10 @@
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
 
-<img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
-<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+<p>
+  <img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+  <img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+</p>
 
 </div>
 
