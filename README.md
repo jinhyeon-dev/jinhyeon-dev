@@ -3,6 +3,9 @@
 <div align="center">
 <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=jinhyeon-dev&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox" />
 
+<img src="https://media.giphy.com/media/l8G8sdTRURRBANPpPR/giphy.gif"/>
+<img src="https://media.giphy.com/media/0fz5uNPHnoVHLEhAW2/giphy.gif"/>
+
 #  Hello! I'm Jinhyeon Kim 
 ### Hello, I am a high school developer currently attending Gyeongbuk Software High School.
   
