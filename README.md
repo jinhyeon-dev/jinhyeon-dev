@@ -30,7 +30,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=algolia&column=10&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=algolia&column=10&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jinhyeon Kim's GitHub state](https://github-readme-stats.vercel.app/api?username=jinhyeon-dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeon-dev&layout=compact&theme=transparent)
