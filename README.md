@@ -30,12 +30,12 @@
 
 ---
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=chalk&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=algolia&row=2&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jinhyeon Kim's GitHub state](https://github-readme-stats.vercel.app/api?username=jinhyeon-dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeon-dev&layout=compact&theme=transparent)
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-compact&height=250" />
 
 </div>
 
