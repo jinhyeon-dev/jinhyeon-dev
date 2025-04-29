@@ -18,8 +18,10 @@
 | [**투두고(ToDoGo)**](https://github.com/jinhyeon-dev/todogo) | 로그인 없이 간편하게 사용하는 할 일 관리 서비스 |
 | [**또모탐(TTOMOTAM)**](https://github.com/jinhyeon-dev/ttomotam) | 심플한 UI로 학습 시간과 쉬는 시간을 설정하고, 반복하며 몰입할 수 있도록 돕는 서비스 |
 | [**와드고(WODGO)**](https://github.com/WODGO) | AI 추천 기반 크로스핏 운동 관리 서비스 |
+| [**flutter_neis**](https://github.com/jinhyeon-dev/flutter_neis) | Flutter에서 **NEIS OPEN API**를 쉽게 사용할 수 있도록 도와주는 패키지 |
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://jinhyeon-dev.notion.site/1cad3e95e4e480149d5bc1056b42e5cc)
