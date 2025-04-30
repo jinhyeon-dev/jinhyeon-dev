@@ -13,14 +13,14 @@
 - 지속적인 자기계발과 문제 해결을 위한 학습
 
 ### 🚀 Currently Working On
-| Project | Description | date |
-|:---|:---|:---|
-| [**gbsw_today**(인스타그램 급식 알리미)](https://github.com/jinhyeon-dev/gbsw_today) | 인스타그램에 매일 6시에 자동적으로 찾아가는 급식 알리미 서비스 | 2025.04.30 |
-| [**투두고(ToDoGo)**](https://github.com/jinhyeon-dev/todogo) | 로그인 없이 간편하게 사용하는 할 일 관리 서비스 | 2025.04.03 ~ |
-| [**또모탐(TTOMOTAM)**](https://github.com/jinhyeon-dev/ttomotam) | 심플한 UI로 학습 시간과 쉬는 시간을 설정하고, 반복하며 몰입할 수 있도록 돕는 서비스 | 2025.04.28 |
-| [**와드고(WODGO)**](https://github.com/WODGO) | AI 추천 기반 크로스핏 운동 관리 서비스 | 2025.03 ~ |
-| [**flutter_neis**](https://github.com/jinhyeon-dev/flutter_neis) | Flutter에서 **NEIS OPEN API**를 쉽게 사용할 수 있도록 도와주는 패키지 | 2025.04.17 ~ |
-| [**dial_timer**](https://github.com/jinhyeon-dev/dial_timer) | Flutter 앱에 원형 다이얼 기반 타이머 기능을 쉽게 추가할 수 있는 패키지입니다. | 2025.04.28 |
+| Project | Description |
+|:---|:---|
+| [**gbsw_today**(인스타그램 급식 알리미)](https://github.com/jinhyeon-dev/gbsw_today) | 인스타그램에 매일 6시에 자동적으로 찾아가는 급식 알리미 서비스 |
+| [**투두고(ToDoGo)**](https://github.com/jinhyeon-dev/todogo) | 로그인 없이 간편하게 사용하는 할 일 관리 서비스 |
+| [**또모탐(TTOMOTAM)**](https://github.com/jinhyeon-dev/ttomotam) | 심플한 UI로 학습 시간과 쉬는 시간을 설정하고, 반복하며 몰입할 수 있도록 돕는 서비스 |
+| [**와드고(WODGO)**](https://github.com/WODGO) | AI 추천 기반 크로스핏 운동 관리 서비스 |
+| [**flutter_neis**](https://github.com/jinhyeon-dev/flutter_neis) | Flutter에서 **NEIS OPEN API**를 쉽게 사용할 수 있도록 도와주는 패키지 |
+| [**dial_timer**](https://github.com/jinhyeon-dev/dial_timer) | Flutter 앱에 원형 다이얼 기반 타이머 기능을 쉽게 추가할 수 있는 패키지입니다. |
 
 ### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
 
