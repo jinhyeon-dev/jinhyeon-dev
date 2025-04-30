@@ -8,11 +8,15 @@
 - 배움에는 끝이 없다고 믿고, **헝그리 정신**으로 끊임없이 학습합니다.
 - 언제나 사용자의 입장에서 생각하며, **더 나은 서비스**를 고민합니다.
 
+### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://jinhyeon-dev.notion.site/1cad3e95e4e480149d5bc1056b42e5cc)
+
 ### 🌱 Skills
-- Flutter를 이용한 모바일 앱 개발
-- Firebase, AWS 등 클라우드 서비스 연동 경험
-- GitHub 기반 협업 경험
-- 지속적인 자기계발과 문제 해결을 위한 학습
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,react,aws,git,mysql,fastapi,python)](https://skillicons.dev)
 
 ### 🚀 Currently Working On
 | Project | Description |
@@ -30,12 +34,6 @@
 |:--|:--|:--|
 | 2023.03 ~ 재학 중 | 경북소프트웨어마이스터고등학교 | 소프트웨어개발과 |
 | 2020.03 ~ 2023.03 | 문경중학교 | - |
-
-### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://jinhyeon-dev.notion.site/1cad3e95e4e480149d5bc1056b42e5cc)
 
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=dark&row=1&column=5)
