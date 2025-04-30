@@ -1,18 +1,18 @@
 ## ***"Always work hard on something uncomfortably exciting." - Larry Page***
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 👋🏻 About Me
-안녕하세요, 현재 경북소프트웨어마이스터고등학교에 재학중인 학생 개발자 김진현입니다.
-- 도전을 두려워하지 않고, 모든 경험을 성장의 발판으로 삼는 **그로스 마인드셋**을 가지고 있습니다.
-- 배움에는 끝이 없다고 믿고, **헝그리 정신**으로 끊임없이 학습합니다.
-- 언제나 사용자의 입장에서 생각하며, **더 나은 서비스**를 고민합니다.
+<!-- [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://jinhyeon-dev.notion.site/1cad3e95e4e480149d5bc1056b42e5cc)
+
+### 👋🏻 About Me
+안녕하세요, 현재 경북소프트웨어마이스터고등학교에 재학중인 학생 개발자 김진현입니다.
+- 도전을 두려워하지 않고, 모든 경험을 성장의 발판으로 삼는 **그로스 마인드셋**을 가지고 있습니다.
+- 배움에는 끝이 없다고 믿고, **헝그리 정신**으로 끊임없이 학습합니다.
+- 언제나 사용자의 입장에서 생각하며, **더 나은 서비스**를 고민합니다.
 
 ### 🌱 Skills
 
@@ -40,7 +40,7 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jinhyeon-dev&theme=tokyonight&hide_border=true)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jinhyeon-dev&theme=tokyonight&hide_border=true) -->
 
 ![jinhyeon-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinhyeon-dev&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeon-dev&layout=compact&theme=transparent)
