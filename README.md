@@ -15,7 +15,7 @@
 ### 🚀 Currently Working On
 | Project | Description |
 |:---|:---|
-| [**gbsw_today**(인스타그램 급식 알리미)](https://github.com/jinhyeon-dev/gbsw_doday) | 인스타그램에 매일 6시에 자동적으로 찾아가는 급식 알리미 서비스 |
+| [**gbsw_today**(인스타그램 급식 알리미)](https://github.com/jinhyeon-dev/gbsw_today) | 인스타그램에 매일 6시에 자동적으로 찾아가는 급식 알리미 서비스 |
 | [**투두고(ToDoGo)**](https://github.com/jinhyeon-dev/todogo) | 로그인 없이 간편하게 사용하는 할 일 관리 서비스 |
 | [**또모탐(TTOMOTAM)**](https://github.com/jinhyeon-dev/ttomotam) | 심플한 UI로 학습 시간과 쉬는 시간을 설정하고, 반복하며 몰입할 수 있도록 돕는 서비스 |
 | [**와드고(WODGO)**](https://github.com/WODGO) | AI 추천 기반 크로스핏 운동 관리 서비스 |
