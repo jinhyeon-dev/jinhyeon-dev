@@ -2,7 +2,7 @@
 
 <!-- [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-### 🌐 Connect with Me / 언제든지 연락 주세요! 같이 성장해요 ☺️
+### 🌐 Connect with Me / 구직중이에요! 제가 필요한 곳이라면 함께하고 싶습니다! ☺️ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
