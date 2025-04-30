@@ -16,7 +16,7 @@
 
 ### 🌱 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,react,aws,git,mysql,fastapi,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,react,aws,git,mysql,fastapi,python,figma)](https://skillicons.dev)
 
 ### 🚀 Currently Working On
 | Project | Description |
