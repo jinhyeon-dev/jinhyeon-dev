@@ -2,6 +2,11 @@
 
 <!-- [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jinhyeon-dev&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
+
+| KR version | EN version |
+|:--|:--|
+| [🇰🇷 한국어](./README.md) | [🇺🇸 English](./translate/README.EN.md) |
+
 ### 🌐 Connect with Me / 구직중이에요! 제가 필요한 곳이라면 함께하고 싶습니다! ☺️ 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
