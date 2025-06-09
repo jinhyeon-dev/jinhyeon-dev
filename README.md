@@ -7,7 +7,7 @@
 |:--|:--|
 | [🇰🇷 한국어](./README.md) | [🇺🇸 English](./translate/README.EN.md) |
 
-### 🌐 Connect with Me / 현장실습 8.18 ~ 11.14
+### 🌐 Connect with Me / ~구직 중입니다. 제가 필요한 곳이라면 함께하고 싶습니다 😊~ | 현장실습 8.18 ~ 11.14
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/진현-김-377784329/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinhyeon.dev@gmail.com)
