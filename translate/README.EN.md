@@ -4,7 +4,7 @@
 
 | KR version | EN version |
 |:--|:--|
-| [🇰🇷 한국어](./README.md) | [🇺🇸 English](./translate/README.EN.md) |
+| [🇰🇷 한국어](../README.md) | [🇺🇸 English](./translate/README.EN.md) |
 
 ### 🌐 Connect with Me / I’m currently open to opportunities! I’d love to work where I’m needed. ☺️
 
