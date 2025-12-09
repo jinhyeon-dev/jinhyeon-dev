@@ -39,12 +39,3 @@
 |:--|:--|:--|
 | 2023.03 ~ 재학 중 | 경북소프트웨어마이스터고등학교 | 소프트웨어개발과 |
 | 2020.03 ~ 2023.03 | 문경중학교 | - |
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jinhyeon-dev&theme=dark&row=1&column=5)
-
-### 📈 GitHub Stats
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jinhyeon-dev&theme=tokyonight&hide_border=true) -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinhyeon-dev&layout=compact&theme=transparent)
